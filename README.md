@@ -1,2 +1,4 @@
 # Statistics-in-Python
-Applying my Statistics knowledge &amp; concepts , then implement them in Python
+
+
+1) Statistical Testing Technique 1 --> Proportional Sampling
